@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/mt-blog/',
+  base: './',
   dest: './dist',
   title: '李伟',
   description: '这是一个简单的博客',
