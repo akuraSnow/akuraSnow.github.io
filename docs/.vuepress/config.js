@@ -1,44 +1,34 @@
 module.exports = {
-  title: "李伟",
-  description: "The description of the site.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
-  dest: "./dist",
-
+  base: '/mt-blog/',
+  dest: './dist',
+  title: '李伟',
+  description: '这是一个简单的博客',
   themeConfig: {
+    repo: 'TaoXuSheng/mt-blog',
     nav: [
-      { text: "主页", link: "/" },
-      { text: "项目", link: "/projects/" },
-      { text: "博客", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/akuraSnow" }
+      { text: '主页', link: '/' },
+      { text: '博客', link: '/blog/' },
+      { text: '关于我', link: '/my/' },
+      {
+        text: '我的项目',
+        items: [
+          { text: 'focus-outside', link: 'https://github.com/TaoXuSheng/focus-outside' },
+          { text: 'stylus-converter', link: 'https://github.com/TaoXuSheng/stylus-converter' },
+        ]
+      }
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
-    lastUpdated: 'Last Updated'
-  },
-
-  markdown: {
-    // options for markdown-it-anchor
-    anchor: { permalink: false },
-    config: md => {
-      md.use(require("markdown-it-katex"));
-    }
-  }
-};
-
-function genSidebarConfig (title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
-        '',
-        'getting-started',
-        'customize',
-        'advanced',
+      '/blog/': [
+        'git',
+        'vue-amap',
+        'js-function',
+        'vuepress-theme',
+        'vuepress',
+        'vue-business-component',
+        'stylus-converter',
+        'click-outside',
+        'json-server'
       ]
     }
-  ]
+  }
 }
-

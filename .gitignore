@@ -1,7 +1,2 @@
-.DS_Store
-node_modules
-*.log
-.temp
-vuepress
-TODOs.md
-deploy
+/node_modules
+/dist

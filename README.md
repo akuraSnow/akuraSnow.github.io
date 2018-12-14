@@ -1,24 +1,7 @@
-<h1 align="center">
-  <a href="https://github.com/mtobeiyf/vuepress-homepage" title="Homepage">
-    <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
-  </a>
-  <br />
-  我的博客  
-</h1>
+# mt-blog
 
+> 基于 vuepress 搭建的静态博客 [跳转博客](https://txs1992.github.io/mt-blog/)，关于如何通过 VuePress 搭建 github 博客，请阅读这篇文章 [VuePress 快速踩坑](https://txs1992.github.io/mt-blog/zhihu/vuepress.html)，关于如何修改 VuePress 主题请阅读这篇文章[VuePress 主题踩坑](https://txs1992.github.io/mt-blog/blog/vuepress-theme.html)，**如果对您有所帮助请点击 `star`谢谢** 。
 
-<h2>
-  <a href="https://vuepress-homepage.netlify.com" target="_blank" title="Demo">
-    进入我的博客
-  </a>
-</h2>
-
-## 使用的库
-
-[VuePress](https://vuepress.vuejs.org/)
-
-[Vue.js](https://vuejs.org/)
-
-## License
-
-Copyright © 2018
+<a href="https://txs1992.github.io/mt-blog/" target="_blank">
+  <img src="https://github.com/txs1992/mt-blog/blob/master/docs/images/blog.png"></img>
+</a>

@@ -1,22 +1,14 @@
 ---
-layout: Homepage
-description: 'The biography and information about me.'
-avatar: /profile.jpg
-head: '李伟'
-info: '成都信息工程大学银杏酒店管理学院'
-interests: '兴趣: 篮球 游戏 旅游.'
-socials:
-- title: github
-  link: https://github.com/akuraSnow
-
-actions:
-- text: 项目
-  link: /projects/
-- text: 博客
-  link: https://github.com/mtobeiyf
-- text: 文章
-  link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+home: true
+title: 李伟
+description: 12345，上山打老虎
+component: home
+bgimg: ./mt-blog/docs/bg.jpeg
+nav:
+  - text: 博客
+    link: /blog/
+  - text: github
+    link: https://github.com/akuraSnow
+  - text: 关于我
+    link: /my/
 ---
-
-
