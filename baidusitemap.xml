@@ -6,26 +6,6 @@
     
     
   <url>
-    <loc>https://akuraSnow.github.io/2017/02/14/why-we-dropped-zepto/</loc>
-    <lastmod>2018-10-19T16:46:50.000Z</lastmod>
-    <data>
-        <display>
-        <title>【转】为什么我们放弃了 Zepto</title>
-        <pubTime>2017-02-13T17:25:24.000Z</pubTime>
-        
-        <tag>zepto</tag>
-         
-         
-           
-             
-              <breadCrumb title="综合" url="https://akuraSnow.github.io/categories/%E7%BB%BC%E5%90%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://akuraSnow.github.io/2018/07/20/yarn/</loc>
     <lastmod>2018-10-19T16:46:50.000Z</lastmod>
     <data>
@@ -39,6 +19,26 @@
            
              
               <breadCrumb title="前端" url="https://akuraSnow.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://akuraSnow.github.io/2017/02/14/why-we-dropped-zepto/</loc>
+    <lastmod>2018-10-19T16:46:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>【转】为什么我们放弃了 Zepto</title>
+        <pubTime>2017-02-13T17:25:24.000Z</pubTime>
+        
+        <tag>zepto</tag>
+         
+         
+           
+             
+              <breadCrumb title="综合" url="https://akuraSnow.github.io/categories/%E7%BB%BC%E5%90%88/"/>
           
         </display>
     </data>
