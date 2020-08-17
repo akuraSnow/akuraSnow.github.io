@@ -1,0 +1,48 @@
+{
+  "name": "eastedu",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "upload",
+    "file"
+  ],
+  "author": "showMall",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "es"
+  ],
+  "scripts": {
+    "start": "father doc dev",
+    "doc:build": "father doc build",
+    "doc:deploy": "father doc deploy",
+    "lib:build": "father build"
+  },
+  "peerDependencies": {
+    "antd": ">=3.21.0",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.0",
+    "father": "^2.29.2",
+    "fs-extra": "^8.1.0",
+    "klaw-sync": "^6.0.0"
+  },
+  "dependencies": {
+    "antd": "^3.21.0",
+    "babel-preset-stage-1": "^6.24.1",
+    "classnames": "^2.2.6",
+    "cos-js-sdk-v5": "^0.5.23",
+    "emotion": "^10.0.27",
+    "file-extension": "^4.0.5",
+    "js-md5-file": "^0.6.2",
+    "lodash": "^4.17.15",
+    "react-dom": "^16.13.1",
+    "umi-request": "^1.2.6"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "config": {
+    "title": "Eastedu",
+    "description": "My awesome app using docz",
+    "menu": [
+      "首页",
+      "组件"
+    ],
+    "version": "1.0.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": true,
+    "theme": "F:/next/akuraSnow.github.io/node_modules/docz-theme-umi/es/index.js",
+    "base": "/eastedu/",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "src/Buttons/index.mdx",
+      "value": {
+        "name": "Buttons",
+        "route": "/eastedu/Buttons",
+        "menu": "组件",
+        "id": "1960f53c9a4f4db4cd8c9e317f0fe62a",
+        "filepath": "src/Buttons/index.mdx",
+        "link": "",
+        "slug": "src-buttons-index",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 2,
+            "value": "Button"
+          },
+          {
+            "slug": "代码演示",
+            "depth": 3,
+            "value": "代码演示"
+          },
+          {
+            "slug": "复制信息",
+            "depth": 4,
+            "value": "复制信息"
+          },
+          {
+            "slug": "api",
+            "depth": 2,
+            "value": "API"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/uploadFile/index.mdx",
+      "value": {
+        "name": "uploadFile",
+        "route": "/eastedu/uploadFile",
+        "menu": "组件",
+        "id": "32c1fa3060372f19f5d6bdb64b362a75",
+        "filepath": "src/uploadFile/index.mdx",
+        "link": "",
+        "slug": "src-upload-file-index",
+        "headings": [
+          {
+            "slug": "uploadfile",
+            "depth": 2,
+            "value": "UploadFile"
+          },
+          {
+            "slug": "代码演示",
+            "depth": 3,
+            "value": "代码演示"
+          },
+          {
+            "slug": "复制信息",
+            "depth": 4,
+            "value": "复制信息"
+          },
+          {
+            "slug": "api",
+            "depth": 2,
+            "value": "API"
+          }
+        ]
+      }
+    }
+  ]
+}
