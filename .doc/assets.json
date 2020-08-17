@@ -1,0 +1,19 @@
+{
+  "vendors.css": "/eastedu/static/css/vendors.54844d0e0daf94ac00f3.css",
+  "vendors.js": "/eastedu/static/js/vendors.88b4304c.js",
+  "app.js": "/eastedu/static/js/app.54844d0e0daf94ac00f3.js",
+  "src-buttons-index.css": "/eastedu/static/css/src-buttons-index.54844d0e0daf94ac00f3.css",
+  "src-buttons-index.js": "/eastedu/static/js/src-buttons-index.719de29d.js",
+  "src-upload-file-index.css": "/eastedu/static/css/src-upload-file-index.54844d0e0daf94ac00f3.css",
+  "src-upload-file-index.js": "/eastedu/static/js/src-upload-file-index.f619fdd1.js",
+  "index.html": "/eastedu/index.html",
+  "static/img/ic_file_animate.svg": "/eastedu/static/img/ic_file_animate.2fd1f463.svg",
+  "static/img/ic_file_attachment.svg": "/eastedu/static/img/ic_file_attachment.ffb4b322.svg",
+  "static/img/ic_file_audio.svg": "/eastedu/static/img/ic_file_audio.1fb5ad9a.svg",
+  "static/img/ic_file_gsp.svg": "/eastedu/static/img/ic_file_gsp.cd086e47.svg",
+  "static/img/ic_file_picture.svg": "/eastedu/static/img/ic_file_picture.cd249ac0.svg",
+  "static/img/ic_file_ppt.svg": "/eastedu/static/img/ic_file_ppt.11467320.svg",
+  "static/img/ic_file_unknown.svg": "/eastedu/static/img/ic_file_unknown.d02d831c.svg",
+  "static/img/ic_file_video.svg": "/eastedu/static/img/ic_file_video.e3acd6e0.svg",
+  "static/img/ic_file_word.svg": "/eastedu/static/img/ic_file_word.16faba57.svg"
+}
