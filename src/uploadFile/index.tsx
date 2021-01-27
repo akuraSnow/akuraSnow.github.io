@@ -227,7 +227,7 @@ export default class UploadFile extends Component<UploadFileProps, UploadFileSta
 
     } = this.props;
 
-    let newFileList = JSON.parse(JSON.stringify(fileList));
+    // let newFileList = JSON.parse(JSON.stringify(fileList));
 
     return (
       <div className={"fileContent"}>
@@ -251,7 +251,7 @@ export default class UploadFile extends Component<UploadFileProps, UploadFileSta
   
         </div>
         {
-          fileList.map((fileItem: any, index: number) => {
+          fileList.map((fileItem: any) => {
       
               return <div 
                   className={`${"fileItemList"} ${fileItem.status === 'error' ? "err" : ''}`} 

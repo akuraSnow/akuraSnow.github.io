@@ -1,20 +1,19 @@
 {
   "config": {
     "title": "Eastedu",
-    "description": "My awesome app using docz",
+    "description": "eastedu",
     "menu": [
-      "首页",
       "组件"
     ],
-    "version": "1.0.0",
+    "version": "1.1.0",
     "repository": false,
     "native": false,
     "codeSandbox": true,
     "themeConfig": {},
     "separator": "-",
     "typescript": true,
-    "theme": "F:/next/akuraSnow.github.io/node_modules/docz-theme-umi/es/index.js",
-    "base": "/eastedu/",
+    "theme": "F:/slate/easteduCompoents/node_modules/docz-theme-umi/es/index.js",
+    "base": "",
     "plugins": [
       {},
       {},
@@ -25,13 +24,465 @@
       {}
     ]
   },
-  "props": [],
+  "props": [
+    {
+      "key": "src\\showQuestion\\MathConfig.ts",
+      "value": []
+    },
+    {
+      "key": "src\\showQuestion\\QuestionShow.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "QuestionShow",
+          "methods": [],
+          "props": {
+            "questionData": {
+              "defaultValue": null,
+              "description": "",
+              "name": "questionData",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "postComponentData": {
+              "defaultValue": null,
+              "description": "",
+              "name": "postComponentData",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "associationState": {
+              "defaultValue": null,
+              "description": "",
+              "name": "associationState",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "title": {
+              "defaultValue": null,
+              "description": "",
+              "name": "title",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "showEbookDirectory": {
+              "defaultValue": null,
+              "description": "",
+              "name": "showEbookDirectory",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "getClickData": {
+              "defaultValue": null,
+              "description": "",
+              "name": "getClickData",
+              "parent": {
+                "fileName": "src/showQuestion/QuestionShow.tsx",
+                "name": "QuestionShowProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src\\MessageTips\\Confirm\\Confirm.ts",
+      "value": []
+    },
+    {
+      "key": "src\\MessageTips\\Confirm\\ConfirmChild.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "ConfirmChild",
+          "methods": [],
+          "props": {
+            "show": {
+              "defaultValue": null,
+              "description": "",
+              "name": "show",
+              "parent": {
+                "fileName": "easteduCompoents/src/MessageTips/Confirm/ConfirmChild.tsx",
+                "name": "confirmChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "params": {
+              "defaultValue": null,
+              "description": "",
+              "name": "params",
+              "parent": {
+                "fileName": "easteduCompoents/src/MessageTips/Confirm/ConfirmChild.tsx",
+                "name": "confirmChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "cancleText": {
+              "defaultValue": null,
+              "description": "",
+              "name": "cancleText",
+              "parent": {
+                "fileName": "easteduCompoents/src/MessageTips/Confirm/ConfirmChild.tsx",
+                "name": "confirmChildProps"
+              },
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "cancleHandle": {
+              "defaultValue": null,
+              "description": "",
+              "name": "cancleHandle",
+              "parent": {
+                "fileName": "easteduCompoents/src/MessageTips/Confirm/ConfirmChild.tsx",
+                "name": "confirmChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "Function"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src\\MessageTips\\NoData\\NoData.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "NoData",
+          "methods": [],
+          "props": {
+            "show": {
+              "defaultValue": null,
+              "description": "",
+              "name": "show",
+              "parent": {
+                "fileName": "src/MessageTips/NoData/NoData.tsx",
+                "name": "NoDataProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "message": {
+              "defaultValue": null,
+              "description": "",
+              "name": "message",
+              "parent": {
+                "fileName": "src/MessageTips/NoData/NoData.tsx",
+                "name": "NoDataProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src\\MessageTips\\Tips\\Tip.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Tip",
+          "methods": [],
+          "props": {
+            "show": {
+              "defaultValue": null,
+              "description": "",
+              "name": "show",
+              "parent": {
+                "fileName": "src/MessageTips/Tips/Tip.tsx",
+                "name": "TipsChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "cancleHandle": {
+              "defaultValue": null,
+              "description": "",
+              "name": "cancleHandle",
+              "parent": {
+                "fileName": "src/MessageTips/Tips/Tip.tsx",
+                "name": "TipsChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "params": {
+              "defaultValue": null,
+              "description": "",
+              "name": "params",
+              "parent": {
+                "fileName": "src/MessageTips/Tips/Tip.tsx",
+                "name": "TipsChildProps"
+              },
+              "required": true,
+              "type": {
+                "name": "any"
+              }
+            },
+            "endTime": {
+              "defaultValue": null,
+              "description": "",
+              "name": "endTime",
+              "parent": {
+                "fileName": "src/MessageTips/Tips/Tip.tsx",
+                "name": "TipsChildProps"
+              },
+              "required": false,
+              "type": {
+                "name": "number | undefined"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src\\MessageTips\\Tips\\Tips.ts",
+      "value": []
+    },
+    {
+      "key": "src\\QuestionEditor\\services\\EditdQuestion.ts",
+      "value": [
+        {
+          "description": "",
+          "displayName": "identifyFormulaFromImage",
+          "methods": [],
+          "props": {}
+        },
+        {
+          "description": "",
+          "displayName": "SaveAndPutAway",
+          "methods": [],
+          "props": {}
+        },
+        {
+          "description": "",
+          "displayName": "postSignatures",
+          "methods": [],
+          "props": {}
+        },
+        {
+          "description": "",
+          "displayName": "updateFile",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\components\\FormulaEditor.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "FormulaEditor",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\components\\JudgementAnswer.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "JudgementAnswer",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\components\\UploadFile.ts",
+      "value": []
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\FormulaEditor.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "FormulaEditor",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\InserImage.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "InserImage",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\InsertFormula.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "InsertFormula",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\InsertFormula1.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "InsertFormula1",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\MarkColorBtn.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "MarkColorBtn",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\MarkFontBtn.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "MarkFontBtn",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\OrderSort.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "OrderSort",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\WordSpace.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "WordSpace",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src\\QuestionEditor\\editor\\iconCompents\\WordSpacing.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "WordSpacing",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    }
+  ],
   "entries": [
+    {
+      "key": "src/index.mdx",
+      "value": {
+        "name": "首页",
+        "route": "/",
+        "id": "6576455a124f9aaefd860597f03a8fe4",
+        "filepath": "src/index.mdx",
+        "link": "",
+        "slug": "src-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "设置私有源",
+            "depth": 2,
+            "value": "设置私有源"
+          },
+          {
+            "slug": "-安装",
+            "depth": 2,
+            "value": "📦 安装"
+          },
+          {
+            "slug": "-示例",
+            "depth": 2,
+            "value": "🔨 示例"
+          }
+        ]
+      }
+    },
     {
       "key": "src/Buttons/index.mdx",
       "value": {
         "name": "Buttons",
-        "route": "/eastedu/Buttons",
+        "route": "/Buttons",
         "menu": "组件",
         "id": "1960f53c9a4f4db4cd8c9e317f0fe62a",
         "filepath": "src/Buttons/index.mdx",
@@ -62,10 +513,83 @@
       }
     },
     {
+      "key": "src/DragModel/index.mdx",
+      "value": {
+        "name": "DragModel",
+        "route": "/DragModel",
+        "menu": "组件",
+        "id": "c3e2d577353ddde7459b089c941e4d18",
+        "filepath": "src/DragModel/index.mdx",
+        "link": "",
+        "slug": "src-drag-model-index",
+        "headings": [
+          {
+            "slug": "dragmodel",
+            "depth": 2,
+            "value": "DragModel"
+          },
+          {
+            "slug": "代码演示",
+            "depth": 3,
+            "value": "代码演示"
+          },
+          {
+            "slug": "复制信息",
+            "depth": 4,
+            "value": "复制信息"
+          },
+          {
+            "slug": "api",
+            "depth": 2,
+            "value": "API"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/QuestionEditor/index.mdx",
+      "value": {
+        "name": "QuestionEditor",
+        "route": "/QuestionEditor",
+        "menu": "组件",
+        "id": "00617fce751f532fa59a24d4d754703c",
+        "filepath": "src/QuestionEditor/index.mdx",
+        "link": "",
+        "slug": "src-question-editor-index",
+        "headings": [
+          {
+            "slug": "questioneditor",
+            "depth": 2,
+            "value": "QuestionEditor"
+          },
+          {
+            "slug": "加载文件",
+            "depth": 3,
+            "value": "加载文件"
+          },
+          {
+            "slug": "请在使用之前，要在indexhtml的head里面引入第三方文件-点击下载",
+            "depth": 4,
+            "value": "请在使用之前，要在index.html的head里面引入第三方文件  点击下载"
+          },
+          {
+            "slug": "复制信息",
+            "depth": 4,
+            "value": "复制信息"
+          },
+          {
+            "slug": "api",
+            "depth": 2,
+            "value": "API"
+          }
+        ]
+      }
+    },
+    {
       "key": "src/uploadFile/index.mdx",
       "value": {
         "name": "uploadFile",
-        "route": "/eastedu/uploadFile",
+        "route": "/uploadFile",
         "menu": "组件",
         "id": "32c1fa3060372f19f5d6bdb64b362a75",
         "filepath": "src/uploadFile/index.mdx",

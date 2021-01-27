@@ -17,9 +17,9 @@ export default {
     entry: 'src/index.tsx',
     lessInBabelMode: true,
     doc: {
-      base: '/eastedu/',
+      base: '',
       menu: [
-        '首页',
+        // '首页',
         '组件'
       ]
     },

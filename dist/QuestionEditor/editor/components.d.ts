@@ -1,0 +1,11 @@
+import React from 'react';
+export declare const Button: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Button1: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Button2: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Button3: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const EditorValue: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Icon: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Instruction: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Menu: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;
+export declare const Portal: ({ children }: any) => any;
+export declare const Toolbar: React.ForwardRefExoticComponent<React.RefAttributes<unknown>>;

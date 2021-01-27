@@ -1,0 +1,26 @@
+/// <reference types="react" />
+export declare const bold: JSX.Element;
+export declare const centerAlignment: JSX.Element;
+export declare const cleanUp: JSX.Element;
+export declare const disorder: JSX.Element;
+export declare const formatMatch: JSX.Element;
+export declare const Italic: JSX.Element;
+export declare const leftAlignment: JSX.Element;
+export declare const order: JSX.Element;
+export declare const picture: JSX.Element;
+export declare const pinyin: JSX.Element;
+export declare const point: JSX.Element;
+export declare const rightAlignment: JSX.Element;
+export declare const strikeout: JSX.Element;
+export declare const subscript: JSX.Element;
+export declare const superscript: JSX.Element;
+export declare const symbol: JSX.Element;
+export declare const textIndent: JSX.Element;
+export declare const triangle: JSX.Element;
+export declare const underline: JSX.Element;
+export declare const video: JSX.Element;
+export declare const wordspace: JSX.Element;
+export declare const lineSpace: JSX.Element;
+export declare const lowerTriangle: JSX.Element;
+export declare const insertFormula: JSX.Element;
+export declare const formulaEditor: JSX.Element;

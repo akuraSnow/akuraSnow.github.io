@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试题在线编辑-工具栏icon" transform="translate(-223.000000, -56.000000)">
+            <g id="ic_triangle" transform="translate(223.000000, 55.988863)">
+                <rect id="矩形" fill-opacity="0" fill="#F5F5F5" x="0" y="0" width="12" height="12"></rect>
+                <path d="M6.4,4.53333333 L8.4,7.2 C8.56568542,7.4209139 8.5209139,7.73431458 8.3,7.9 C8.21345191,7.96491106 8.10818511,8 8,8 L4,8 C3.72385763,8 3.5,7.77614237 3.5,7.5 C3.5,7.39181489 3.53508894,7.28654809 3.6,7.2 L5.6,4.53333333 C5.76568542,4.31241943 6.0790861,4.26764791 6.3,4.43333333 C6.33790283,4.46176046 6.37157288,4.4954305 6.4,4.53333333 Z" id="三角形备份-3" fill="#595959" transform="translate(6.000000, 6.000000) rotate(-180.000000) translate(-6.000000, -6.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

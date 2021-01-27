@@ -1,0 +1,65 @@
+---
+name: QuestionEditor
+route: /QuestionEditor
+menu: 组件
+---
+
+import { Playground } from 'docz';
+import {QuestionEditor} from '../index';
+import {data} from './data';
+let question = data[0].question;
+
+## QuestionEditor
+
+> 组件名称：试题编辑器（QuestionEditor）自定义组件 
+
+### 加载文件
+
+#### 请在使用之前，要在index.html的head里面引入第三方文件 [点击下载](https://test-1254455861.cos-website.ap-chengdu.myqcloud.com/data/ebook/20210126/29a64654dece72f0b74a248da9b83473.zip)
+
+````javacript
+    <head>
+        // 加载css
+        <link href="/FMathEditor/w2ui-1.4.3/w2ui-1.4.3.css" rel="stylesheet">
+        <link href="/FMathEditor/codemirror/lib/codemirror.css" rel="stylesheet">
+        <link href="/FMathEditor/spectrum/spectrum.css" rel="stylesheet">
+        <link href="/FMathEditor/fmath/editor.css" rel="stylesheet">
+        // 加载js
+        <script src="/jquery.js"></script>
+        <script src="/jquery.mousewheel.min.js"></script>
+        <script src="/FMathEditor/jquery-ui-1.12.1/jquery-ui.js"></script>
+        <script src="/FMathEditor/w2ui-1.4.3/w2ui-1.4.3.min.js"></script>
+        <script src="/FMathEditor/codemirror/lib/codemirror.js"></script>
+        <script src="/FMathEditor/codemirror/mode/xml/xml.js"></script>
+        <script src="/FMathEditor/codemirror/mode/stex/stex.js"></script>
+        <script src="/FMathEditor/codemirror/addon/selection/active-line.js"></script>
+        <script src="/FMathEditor/spectrum/spectrum.js"></script>
+        <script src="/FMathEditor/fmath/lang/zh.js"></script>
+        <script src="/FMathEditor/fmath/fonts/fmathFormulaFonts.js"></script>
+        <script src="/FMathEditor/fmath/fmathEditorC.js"></script>
+        <script src="/FMathEditor/fmath/fmathEditorJQuery.js"></script>
+        <script type="text/javascript" src="/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+````
+
+#### 复制信息
+
+
+<Playground>
+    
+
+    <QuestionEditor
+        question={data[0]}
+        changeValue={(value, indexArr, ei, questionType) => {}}
+
+    ></QuestionEditor>
+
+
+</Playground>
+
+## API
+
+|参数|说明|类型|默认值|
+|:--|:--|:--|:--|
+|question|传入的试题json|Object|{}|
+|changeValue|修改了试题内容后传出来的值|Function|args[0]:传出来的当前框的json;args[1]:传出来的数据在json里面的定位；args[3]:综合题小题定位；args[4]:试题类型|

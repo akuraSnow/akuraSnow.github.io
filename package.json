@@ -1,7 +1,7 @@
 {
   "name": "eastedu",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "eastedu",
   "keywords": [
     "upload",
     "file"
@@ -29,20 +29,29 @@
   },
   "devDependencies": {
     "babel-plugin-import": "^1.13.0",
-    "father": "^2.29.2",
+    "father": "^2.30.1",
     "fs-extra": "^8.1.0",
     "klaw-sync": "^6.0.0"
   },
   "dependencies": {
     "antd": "^3.21.0",
+    "axios": "^0.21.1",
     "babel-preset-stage-1": "^6.24.1",
     "classnames": "^2.2.6",
     "cos-js-sdk-v5": "^0.5.23",
-    "emotion": "^10.0.27",
+    "emotion": "^10.0.9",
     "file-extension": "^4.0.5",
+    "is-hotkey": "^0.2.0",
+    "jquery": "^3.5.1",
     "js-md5-file": "^0.6.2",
     "lodash": "^4.17.15",
     "react-dom": "^16.13.1",
+    "slate": "*",
+    "slate-history": "*",
+    "slate-hyperscript": "*",
+    "slate-react": "*",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.7.2",
     "umi-request": "^1.2.6"
   }
 }

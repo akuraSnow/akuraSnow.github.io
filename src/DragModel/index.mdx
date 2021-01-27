@@ -1,0 +1,76 @@
+---
+name: DragModel
+route: /DragModel
+menu: 组件
+---
+
+import { Playground } from 'docz';
+import { Modal, message, Icon, Progress } from 'antd';
+import {Button, DragModel} from '../index';
+const fileList = [
+    {
+        extension: "7z",
+        fileId: "487284578537848832",
+        fileName: "1.7z",
+        files: [],
+        id: "50103641077143552222",
+        md5: "165f55f4802e1784053920e5b964d4b2",
+        name: "1.7z",
+        preparationId: 500977363523301400,
+        progress: 100,
+        
+        size: 1734918,
+        sort: 2,
+        status: "olddone",
+        type: "MATERIAL",
+        updateTime: "1597385989134"
+    }
+];
+
+## DragModel
+
+> 组件名称：拖拽弹框组件（DragModel）
+
+### 代码演示
+
+#### 复制信息
+
+<Playground>   
+    <DragModel
+        style={{
+            width: '500px',
+            height: '500px',
+            right: '100px',
+            top: '100px'
+        }}
+        title="拖拽弹框"
+        onCancle={() => {
+           
+        }}
+        onOk={() => {
+
+        }}
+        postion={() => {
+            
+        }}
+        isModals={false}
+        visible={true}
+    >   
+        <div>
+            这是弹框里面的内容
+        </div>
+    </DragModel>
+
+
+</Playground>
+
+## API
+
+|参数|说明|类型|默认值|
+|:--|:--|:--|:--|
+|style|上传的url地址|string(必填)|https://gateway.test.eastedu.ltd|
+|title|token|string(必填)|''|
+|onCancle|上传文件的最大M数|string?||
+|onOk|上传的文件名的限制长度|number?||
+|isModals|是否显示默认文件列表|Arrey(必填)||
+

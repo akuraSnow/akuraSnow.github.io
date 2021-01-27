@@ -1,0 +1,24 @@
+.JudgementAnswerCotent {
+  position: absolute;
+  top: 0;
+  left: 52px;
+  width: 800px;
+  display: flex;
+}
+.JudgementAnswerCotent > div {
+  padding: 0px 8px;
+  margin-right: 24px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.JudgementAnswerCotent > div:hover {
+  color: #FE8D29;
+}
+.JudgementAnswerCotent .checkItem {
+  height: 20px;
+  line-height: 16px;
+  padding: 2px 8px;
+  background: #FE8D29;
+  border-radius: 4px;
+  color: #fff !important;
+}

@@ -1,0 +1,145 @@
+
+
+.wrapper{
+    .title{
+        margin-bottom: 16px;
+        .remarks{
+            color: #BFBFBF;
+            margin-left: 8px;
+        }
+    }
+
+
+    .fileItemList {
+        width: 400px;
+        background: #F2F3F5;
+        height: 76px;
+        padding: 12px 16px;
+        display: flex;
+        flex-flow: column;
+        justify-content: space-between;
+        position: relative;
+        span.fileItemName {
+            // padding-left: 20px;
+            color: #595959;
+            max-width: 320px;
+            display: inline-block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .errInfo{
+            position: absolute;
+            bottom: 1px;
+            left: 16px;
+            color: #FF5A5A;
+            font-size: 12px;
+        }
+    
+        &.err{
+            border: 1px solid  #FF5A5A;
+            span{
+                color: #FF5A5A;
+            }
+        }
+        img{
+            width: 29px;
+            height: 32px;
+            position: relative;
+            top: -7px;
+        }
+        span {
+            // padding-left: 20px;
+            max-width: 700px;
+            display: inline-block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    
+        // i {
+        //     position: absolute;
+        //     color: #595959;
+        //     left: 16px;
+        //     bottom: 12px;
+        //     // display: none;
+        //     line-height: 20px;
+        // }
+    
+        // &:before {
+        //   content: '';
+        //   width: 20px;
+        //   height: 20px;
+        //   position: absolute;
+        //   top: 25px;
+        //   left: 25px;
+        //   // background-image: url('./assets/icon-svg/tFileIcon.svg');;
+        //   background-image: url('./assets/tCompressedFile.svg');
+        // }
+    
+        // &:hover {
+        //     // background: #f5f5f5;
+        //     border: 1px solid #FE8D29;
+        //     i {
+        //         display: inline-block;
+        //         cursor: pointer;
+        //     }
+        // }
+    
+        .progressClass{
+    
+            position: relative;
+            // top: -14px;
+            display: grid;
+            grid-template-columns: 80% 1fr ;
+            grid-row-gap: 20px;
+            &>div{
+                line-height: 24px;
+            }
+            .oprationBtn{
+                font-size: 14px;
+                text-align: center;
+                color: #FE8D29;
+                cursor: pointer;
+            }
+            
+            :global{
+                .ant-progress-outer{
+                    width: 90%;
+                    // padding-left: 48px;
+                }
+                
+                .ant-progress-inner{
+                    height: 8px;
+                    background-color: #D9D9D9;
+                    }
+                .ant-progress-bg{
+                    height: 8px;
+                }
+                .ant-progress-text{
+                    padding-left: 0;
+                    white-space: normal;
+                    width: 42px;
+                    top: 4px;
+                    text-align: right;
+                    text-overflow: initial;
+                }
+            }
+        }
+    
+    }
+    .videoItem{
+        width: 400px;
+        height: 54px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        span{
+
+            color: #FF8F05;
+            cursor: pointer;
+        }
+    }
+
+}

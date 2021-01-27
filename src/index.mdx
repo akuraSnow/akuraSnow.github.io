@@ -1,0 +1,34 @@
+---
+name: 首页
+route: /
+
+---
+
+import { Playground } from 'docz';
+import {Button} from './index';
+
+## 设置私有源
+```bash
+npm config set registry http://nexus.eastedu.org/repository/npm-eastedu/
+```
+
+## 📦 安装
+
+```bash
+npm install eastedu --save
+```
+
+```bash
+yarn add eastedu
+```
+
+## 🔨 示例
+
+```jsx
+import { Button } from 'eastedu';
+
+const App = () => (
+  <>
+    <Button>PRESS ME</Button>
+  </>
+);

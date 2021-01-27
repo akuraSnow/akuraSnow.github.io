@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_text-indent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试题在线编辑-工具栏icon" transform="translate(-556.000000, -50.000000)">
+            <g id="ic_text-indent" transform="translate(556.000000, 49.988863)">
+                <rect id="矩形备份-29" fill-opacity="0" fill="#F5F5F5" x="0" y="0" width="24" height="24"></rect>
+                <g id="编组-3" transform="translate(5.000000, 5.500000)">
+                    <rect id="矩形" fill="#595959" x="8" y="0" width="6" height="1"></rect>
+                    <rect id="矩形备份-18" fill="#595959" x="8" y="4" width="6" height="1"></rect>
+                    <rect id="矩形备份-30" fill="#2B9DF0" transform="translate(3.000000, 2.500000) scale(1, -1) translate(-3.000000, -2.500000) " x="0" y="2" width="6" height="1"></rect>
+                    <polygon id="矩形备份-32" fill="#2B9DF0" points="3.7 1.10710678 5.82132034 3.22842712 6.52842712 2.52132034 4.40710678 0.4"></polygon>
+                    <polygon id="矩形备份-33" fill="#2B9DF0" points="5.82132034 1.81421356 3.7 3.93553391 4.40710678 4.64264069 6.52842712 2.52132034"></polygon>
+                    <rect id="矩形备份-28" fill="#595959" x="0" y="8" width="14" height="1"></rect>
+                    <rect id="矩形备份-31" fill="#595959" x="0" y="12" width="14" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

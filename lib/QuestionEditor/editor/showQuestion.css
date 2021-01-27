@@ -1,0 +1,64 @@
+#RichText canvas {
+  display: inline-block;
+}
+#RichText canvas:hover {
+  background: red;
+}
+.attrQuestionType1 {
+  background: #E7F1FF;
+}
+.DoubleStrike {
+  text-decoration: line-through;
+}
+.UnderlineSingle {
+  text-decoration: underline;
+}
+.UnderlineDouble {
+  display: inline;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.UnderlineWave {
+  color: red;
+  background-image: url('../../assets/icon-svg/wavy.svg');
+  background-size: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 18px 10px;
+  padding: 0px 0;
+}
+.MathJax_Display {
+  display: inline !important;
+  max-width: 100%;
+}
+.UnderlineDotted {
+  text-decoration-style: dashed;
+  text-decoration-line: underline;
+}
+.UnderlineSingle {
+  text-decoration: underline;
+}
+.UnderlineDouble {
+  display: inline;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.Bold {
+  font-weight: bold;
+}
+.Italic {
+  font-style: italic;
+}
+.VertAlignSuperscript {
+  vertical-align: super;
+  font-size: 0.8em !important;
+}
+.VertAlignSubscript {
+  vertical-align: sub;
+  font-size: 0.8em !important;
+}
+a {
+  color: #000;
+}
+.modalQuestionShow {
+  padding: 0 24px;
+}

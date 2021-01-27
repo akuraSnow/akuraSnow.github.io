@@ -1,0 +1,95 @@
+.wrapper .title {
+  margin-bottom: 16px;
+}
+.wrapper .title .remarks {
+  color: #BFBFBF;
+  margin-left: 8px;
+}
+.wrapper .fileItemList {
+  width: 400px;
+  background: #F2F3F5;
+  height: 76px;
+  padding: 12px 16px;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  position: relative;
+}
+.wrapper .fileItemList span.fileItemName {
+  color: #595959;
+  max-width: 320px;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.wrapper .fileItemList .errInfo {
+  position: absolute;
+  bottom: 1px;
+  left: 16px;
+  color: #FF5A5A;
+  font-size: 12px;
+}
+.wrapper .fileItemList.err {
+  border: 1px solid #FF5A5A;
+}
+.wrapper .fileItemList.err span {
+  color: #FF5A5A;
+}
+.wrapper .fileItemList img {
+  width: 29px;
+  height: 32px;
+  position: relative;
+  top: -7px;
+}
+.wrapper .fileItemList span {
+  max-width: 700px;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.wrapper .fileItemList .progressClass {
+  position: relative;
+  display: grid;
+  grid-template-columns: 80% 1fr ;
+  grid-row-gap: 20px;
+}
+.wrapper .fileItemList .progressClass > div {
+  line-height: 24px;
+}
+.wrapper .fileItemList .progressClass .oprationBtn {
+  font-size: 14px;
+  text-align: center;
+  color: #FE8D29;
+  cursor: pointer;
+}
+.wrapper .fileItemList .progressClass :global .ant-progress-outer {
+  width: 90%;
+}
+.wrapper .fileItemList .progressClass :global .ant-progress-inner {
+  height: 8px;
+  background-color: #D9D9D9;
+}
+.wrapper .fileItemList .progressClass :global .ant-progress-bg {
+  height: 8px;
+}
+.wrapper .fileItemList .progressClass :global .ant-progress-text {
+  padding-left: 0;
+  white-space: normal;
+  width: 42px;
+  top: 4px;
+  text-align: right;
+  text-overflow: initial;
+}
+.wrapper .videoItem {
+  width: 400px;
+  height: 54px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrapper .videoItem span {
+  color: #FF8F05;
+  cursor: pointer;
+}

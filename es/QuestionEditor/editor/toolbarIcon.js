@@ -1,0 +1,1077 @@
+import React from 'react';
+export var bold = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px",
+  viewBox: "0 0 25 24",
+  version: "1.1"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-136.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_bold",
+  transform: "translate(137.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M12.6289655,18 C13.8868966,18 14.88,17.7647059 15.5751724,17.2941176 C16.3862069,16.7226891 16.8,15.8319328 16.8,14.6218487 C16.8,13.8151261 16.6013793,13.1596639 16.2206897,12.6890756 C15.8234483,12.2016807 15.2441379,11.8823529 14.4662069,11.7310924 C15.062069,11.4957983 15.5089655,11.1764706 15.8234483,10.7394958 C16.137931,10.2689076 16.3034483,9.69747899 16.3034483,9.02521008 C16.3034483,8.11764706 15.9889655,7.39495798 15.3765517,6.85714286 C14.7144828,6.28571429 13.7875862,6 12.6124138,6 L7.2,6 L7.2,18 L12.6289655,18 Z M12.0993103,11.0420168 L9.13655172,11.0420168 L9.13655172,7.61344538 L12.1324138,7.61344538 C12.9268966,7.61344538 13.4896552,7.74789916 13.8537931,8.01680672 C14.1848276,8.26890756 14.3668966,8.68907563 14.3668966,9.2605042 C14.3668966,9.88235294 14.1848276,10.3361345 13.8537931,10.6218487 C13.5062069,10.8907563 12.9268966,11.0420168 12.0993103,11.0420168 Z M12.3475862,16.3865546 L9.13655172,16.3865546 L9.13655172,12.6554622 L12.3972414,12.6554622 C13.257931,12.6554622 13.8868966,12.8067227 14.2841379,13.1092437 C14.6648276,13.4117647 14.8634483,13.8991597 14.8634483,14.5882353 C14.8634483,15.2605042 14.5986207,15.7310924 14.0689655,16.0336134 C13.6551724,16.2689076 13.0758621,16.3865546 12.3475862,16.3865546 Z",
+  id: "B",
+  fill: "#484848",
+  fillRule: "nonzero"
+})))));
+export var centerAlignment = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-432.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_center-alignment",
+  transform: "translate(432.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-22",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M17,18 L17,19 L7,19 L7,18 L17,18 Z M19,14 L19,15 L5,15 L5,14 L19,14 Z M17,10 L17,11 L7,11 L7,10 L17,10 Z M19,6 L19,7 L5,7 L5,6 L19,6 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD",
+  fill: "#595959"
+})))));
+export var cleanUp = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-74.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_clean-up",
+  transform: "translate(74.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u7ECF\u8FC7\u5907\u4EFD",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M6.652,17 L7.868,13.8 L13.116,13.8 L14.332,17 L15.756,17 L11.26,5.576 L9.74,5.576 L5.244,17 L6.652,17 Z M12.7,12.696 L8.284,12.696 L10.476,6.984 L10.54,6.984 L12.7,12.696 Z",
+  id: "A",
+  fill: "#484848",
+  fillRule: "nonzero"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  stroke: "#B620E0",
+  fill: "#FFFFFF",
+  transform: "translate(15.596194, 15.596194) rotate(-315.000000) translate(-15.596194, -15.596194) ",
+  x: "13.5961941",
+  y: "12.0961941",
+  width: "4",
+  height: "7",
+  rx: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  stroke: "#B620E0",
+  fill: "#F2C5FF",
+  transform: "translate(13.828427, 17.363961) rotate(-315.000000) translate(-13.828427, -17.363961) ",
+  x: "11.8284271",
+  y: "16.363961",
+  width: "4",
+  height: "2",
+  rx: "1"
+})))));
+export var disorder = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-596.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_disorder",
+  transform: "translate(596.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-40",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "\u65E0\u5E8F\u6392\u5217",
+  transform: "translate(4.000000, 4.500000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fill: "#595959",
+  x: "5",
+  y: "1",
+  width: "10",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-18",
+  fill: "#595959",
+  x: "5",
+  y: "7",
+  width: "10",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-28",
+  fill: "#595959",
+  x: "5",
+  y: "13",
+  width: "10",
+  height: "1"
+}), /*#__PURE__*/React.createElement("circle", {
+  id: "\u692D\u5706\u5F62",
+  fill: "#2B9DF0",
+  cx: "1.5",
+  cy: "1.5",
+  r: "1.5"
+}), /*#__PURE__*/React.createElement("circle", {
+  id: "\u692D\u5706\u5F62\u5907\u4EFD",
+  fill: "#2B9DF0",
+  cx: "1.5",
+  cy: "7.5",
+  r: "1.5"
+}), /*#__PURE__*/React.createElement("circle", {
+  id: "\u692D\u5706\u5F62\u5907\u4EFD-2",
+  fill: "#2B9DF0",
+  cx: "1.5",
+  cy: "13.5",
+  r: "1.5"
+}))))));
+export var formatMatch = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-46.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_format-match",
+  transform: "translate(46.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u9009\u4E2D",
+  fillOpacity: "0",
+  fill: "#D9D9D9",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "\u683C\u5F0F\u5237",
+  transform: "translate(12.000000, 12.000000) rotate(-360.000000) translate(-12.000000, -12.000000) translate(5.000000, 5.000000)",
+  stroke: "#595959"
+}, /*#__PURE__*/React.createElement("path", {
+  d: "M9.07257867,0.562936366 C8.94897768,0.596055151 8.83801108,0.676326123 8.76897549,0.795899279 L7.26869891,3.39369891 L4.67091389,1.89398393 C4.55132612,1.8249399 4.41509074,1.81090649 4.29148976,1.84402528 C4.16788877,1.87714406 4.05692217,1.95741504 3.98788658,2.07698819 L0.612886577,7.92265967 C0.543850983,8.04223282 0.529817581,8.1784682 0.562936366,8.30206919 C0.596055151,8.42567018 0.676326123,8.53663678 0.795899279,8.60567237 L8.91488744,13.2931724 C9.0344606,13.362208 9.17069597,13.3762414 9.29429696,13.3431226 C9.41789795,13.3100038 9.52886455,13.2297328 9.59790014,13.1101597 L12.9729001,7.26448819 C13.0419357,7.14491504 13.0559691,7.00867966 13.0228504,6.88507867 C12.9897316,6.76147768 12.9094606,6.65051108 12.7898874,6.58147549 L10.1917013,5.08059892 L11.6918557,2.48332226 C11.7608468,2.36382612 11.7748802,2.22759074 11.7417614,2.10398976 C11.7086427,1.98038877 11.6283717,1.86942217 11.5087985,1.80038658 L9.07257867,0.562936366 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "",
+  id: "\u77E9\u5F62",
+  transform: "translate(7.449143, 6.456916) rotate(-330.000000) translate(-7.449143, -6.456916) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "",
+  id: "\u77E9\u5F62",
+  transform: "translate(3.207077, 8.554391) rotate(-330.000000) translate(-3.207077, -8.554391) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "",
+  id: "\u77E9\u5F62\u5907\u4EFD-15",
+  transform: "translate(4.503871, 9.808277) rotate(-330.000000) translate(-4.503871, -9.808277) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "",
+  id: "\u77E9\u5F62\u5907\u4EFD-24",
+  transform: "translate(7.972460, 10.800505) rotate(-330.000000) translate(-7.972460, -10.800505) "
+}))))));
+export var Italic = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-164.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_Italic",
+  transform: "translate(165.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-6",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M10.8,7.2 L10.8,6 L15.6,6 L15.6,7.2 L13.8,7.2 L11.399,16.799 L13.2,16.8 L13.2,18 L8.4,18 L8.4,16.8 L10.199,16.799 L12.6,7.2 L10.8,7.2 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959"
+})))));
+export var leftAlignment = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-404.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_left-alignment",
+  transform: "translate(404.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-21",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M15,18 L15,19 L5,19 L5,18 L15,18 Z M19,14 L19,15 L5,15 L5,14 L19,14 Z M15,10 L15,11 L5,11 L5,10 L15,10 Z M19,6 L19,7 L5,7 L5,6 L19,6 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959"
+})))));
+export var order = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-624.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_order",
+  transform: "translate(624.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-27",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M19,17.5 L19,18.5 L9,18.5 L9,17.5 L19,17.5 Z M19,11.5 L19,12.5 L9,12.5 L9,11.5 L19,11.5 Z M19,5.5 L19,6.5 L9,6.5 L9,5.5 L19,5.5 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-6",
+  fill: "#595959"
+}), /*#__PURE__*/React.createElement("text", {
+  id: "1-2-3",
+  fontFamily: "PingFangSC-Semibold, PingFang SC",
+  fontSize: "5",
+  fontWeight: "500",
+  "line-spacing": "6",
+  fill: "#2B9DF0"
+}, /*#__PURE__*/React.createElement("tspan", {
+  x: "5.475",
+  y: "7.5"
+}, "1"), /*#__PURE__*/React.createElement("tspan", {
+  x: "5",
+  y: "13.5"
+}, "2"), /*#__PURE__*/React.createElement("tspan", {
+  x: "5",
+  y: "19.5"
+}, "3"))))));
+export var picture = /*#__PURE__*/React.createElement("svg", {
+  width: "16px",
+  height: "16px",
+  viewBox: "0 0 16 16",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-709.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_picture",
+  transform: "translate(709.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-41",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "16",
+  height: "16"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "\u56FE\u7247",
+  transform: "translate(2.000000, 3.000000)",
+  fill: "#FE8D29",
+  fillRule: "nonzero"
+}, /*#__PURE__*/React.createElement("path", {
+  d: "M11.5101679,5.22657663 C11.7574596,5.22657663 11.9579291,5.02409235 11.9579291,4.77431533 L11.9579291,1.66215452 C11.956942,0.74671874 11.222465,0.00486009193 10.3161381,0.00386306533 L1.65285448,0.00808417085 C0.746527509,0.00908119746 0.0120505388,0.750939845 0.0110634328,1.66637563 L0.0110634328,8.32748116 C0.0120505388,9.24291694 0.746527509,9.98477559 1.65285448,9.98577261 L10.3161381,9.98094849 C11.222465,9.97995147 11.956942,9.23809282 11.9579291,8.32265704 L11.9579291,6.8933103 C11.9579291,6.84989322 11.9447948,6.81069724 11.9334515,6.77089824 C11.9400699,6.63959023 11.8889424,6.51203178 11.79375,6.42235553 L9.17464552,4.00004397 C8.87136194,3.71903894 8.40688433,3.71059673 8.05285448,4.02356156 L6.15076493,6.17753141 L4.4456903,5.1771294 C4.26821236,5.0411472 4.04389299,4.98330781 3.82360075,5.01672739 C3.61750195,5.05011441 3.43175595,5.16160386 3.30419776,5.32848618 L2.10598881,6.60567211 C1.94278979,6.78780884 1.95337519,7.06822367 2.12983139,7.23727973 C2.3062876,7.40633578 2.58408391,7.40220861 2.75554104,7.22798367 L3.96628731,5.93753141 L5.66837687,6.93672739 C5.97106343,7.17250628 6.40270522,7.16044598 6.73643657,6.86738065 L8.6295709,4.72245603 L11.0618097,6.97230528 L11.0618097,8.32265704 C11.0618097,8.73813442 10.7268843,9.07642588 10.315541,9.07642588 L1.65285448,9.08125 C1.24151119,9.08125 0.906585821,8.74295854 0.906585821,8.32748116 L0.906585821,1.66637563 C0.906585821,1.25089824 1.24151119,0.912606784 1.65285448,0.912606784 L10.3161381,0.907782663 C10.7274813,0.907782663 11.0624067,1.24607412 11.0624067,1.66155151 L11.0624067,4.77431533 C11.0624067,5.02396357 11.2630037,5.22657663 11.5101679,5.22657663 Z",
+  id: "\u8DEF\u5F84"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M2.51673507,2.90557161 C2.51673507,3.23694246 2.78536422,3.50557161 3.11673507,3.50557161 C3.44810592,3.50557161 3.71673507,3.23694246 3.71673507,2.90557161 C3.71673507,2.57420076 3.44810592,2.30557161 3.11673507,2.30557161 C2.78536422,2.30557161 2.51673507,2.57420076 2.51673507,2.90557161 L2.51673507,2.90557161 Z",
+  id: "\u8DEF\u5F84"
+}))))));
+export var pinyin = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px",
+  viewBox: "0 0 25 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-102.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_pinyin",
+  transform: "translate(102.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u7ECF\u8FC7",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M18.4263363,7 L18.4263363,19 L17.3354272,19 L17.3354272,15.7272727 L13.269,15.727 L11.3354272,19 L10,19 L17.0909091,7 L18.4263363,7 Z M17.335,8.846 L13.914,14.636 L17.3354272,14.6363636 L17.335,8.846 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#2B9DF0"
+}), /*#__PURE__*/React.createElement("text", {
+  id: "abc",
+  fontFamily: "PingFangSC-Regular, PingFang SC",
+  fontSize: "7",
+  fontWeight: "normal",
+  fill: "#484848"
+}, /*#__PURE__*/React.createElement("tspan", {
+  x: "4.078",
+  y: "9"
+}, "abc"))))));
+export var point = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-316.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_point",
+  transform: "translate(317.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-12",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("circle", {
+  id: "\u692D\u5706\u5F62",
+  fill: "#595959",
+  cx: "7.5",
+  cy: "18.5",
+  r: "1.5"
+}), /*#__PURE__*/React.createElement("circle", {
+  id: "\u692D\u5706\u5F62\u5907\u4EFD-3",
+  fill: "#595959",
+  cx: "16.5",
+  cy: "18.5",
+  r: "1.5"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M11.07,15.11 L11.65,14.22 C10.13,13.66 8.85,12.98 7.82,12.16 C8.74,11.15 9.44,9.9 9.92,8.4 L11.43,8.4 L11.43,7.36 L7.65,7.36 C7.35,6.71 7.02,6.15 6.66,5.68 L5.61,6.06 C5.97,6.47 6.28,6.9 6.53,7.36 L2.57,7.36 L2.57,8.4 L4.09,8.4 C4.51,9.85 5.26,11.12 6.34,12.22 C5.3,13.1 3.98,13.74 2.39,14.15 L2.95,15.07 C4.58,14.61 5.96,13.88 7.08,12.89 C8.14,13.77 9.47,14.51 11.07,15.11 Z M7.08,11.51 C6.16,10.61 5.5,9.58 5.09,8.4 L8.84,8.4 C8.45,9.61 7.86,10.65 7.08,11.51 Z M17.53,14.94 L17.53,13 L19.56,13 L19.56,11.99 L17.53,11.99 L17.53,8.44 C18.19,10.21 19.33,11.81 20.96,13.24 L21.67,12.34 C20.09,11.19 18.97,9.88 18.31,8.41 L21.32,8.41 L21.32,7.4 L17.53,7.4 L17.53,5.7 L16.47,5.7 L16.47,7.4 L12.67,7.4 L12.67,8.41 L15.68,8.41 C14.96,10.02 13.84,11.35 12.3,12.39 L12.91,13.37 C14.57,12.09 15.75,10.45 16.47,8.44 L16.47,11.99 L14.52,11.99 L14.52,13 L16.47,13 L16.47,14.94 L17.53,14.94 Z",
+  id: "\u6587\u672C",
+  fill: "#484848",
+  fillRule: "nonzero"
+})))));
+export var rightAlignment = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-460.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_right-alignment",
+  transform: "translate(460.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-23",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M19,18 L19,19 L9,19 L9,18 L19,18 Z M19,14 L19,15 L5,15 L5,14 L19,14 Z M19,10 L19,11 L9,11 L9,10 L19,10 Z M19,6 L19,7 L5,7 L5,6 L19,6 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-2",
+  fill: "#595959"
+})))));
+export var strikeout = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-232.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_strikeout",
+  transform: "translate(233.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-10",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M11.83866,6 C13.1324605,6 14.167501,6.29110512 14.9114363,6.88948787 C15.6877166,7.50404313 16.1243743,8.42587601 16.2375818,9.63881402 L16.2375818,9.63881402 L14.9276088,9.63881402 C14.7820562,8.79784367 14.4586061,8.18328841 13.9572584,7.77897574 C13.4397382,7.35849057 12.7119754,7.16442049 11.77397,7.16442049 C10.9168271,7.16442049 10.2537543,7.29380054 9.76857913,7.58490566 C9.2187139,7.9083558 8.94378129,8.393531 8.94378129,9.05660377 C8.94378129,9.63881402 9.26723142,10.1078167 9.9303042,10.4636119 C10.2214093,10.6253369 10.9329996,10.8679245 12.0489026,11.1913747 C12.3137629,11.2702692 12.5629142,11.3467093 12.7963564,11.4206948 L18.8621486,11.4201001 L18.8621486,12.5752792 L15.4424246,12.5748695 C16.1416667,13.1290896 16.4963419,13.8505391 16.4963419,14.7493261 C16.4963419,15.7520216 16.0920293,16.5606469 15.2834039,17.1428571 C14.4747786,17.7088949 13.3912206,18 12.0165576,18 C10.658067,18 9.59068156,17.7088949 8.81440123,17.1266846 C7.90874085,16.4312668 7.40739315,15.3800539 7.31035811,13.9568733 L7.31035811,13.9568733 L8.62033115,13.9568733 C8.7335387,14.9595687 9.08933385,15.703504 9.67154409,16.1725067 C10.2052368,16.5929919 10.9815171,16.819407 12.0165576,16.819407 C12.954563,16.819407 13.7308433,16.6415094 14.3130535,16.2857143 C14.8952638,15.9299191 15.1863689,15.4447439 15.1863689,14.8301887 C15.1863689,14.1024259 14.7982287,13.5363881 14.0381209,13.1320755 C13.8032726,12.9911665 13.3041231,12.8076283 12.5530532,12.5752705 L5,12.5752792 L5,11.4201001 L9.08147189,11.4200452 C9.02962241,11.3962652 8.98371887,11.3739367 8.94378129,11.3530997 C8.05429342,10.8355795 7.61763573,10.0916442 7.61763573,9.1212938 C7.61763573,8.11859838 8.03812091,7.32614555 8.89526377,6.77628032 C9.65537158,6.25876011 10.6418945,6 11.83866,6 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959",
+  fillRule: "nonzero"
+})))));
+export var subscript = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-260.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_subscript",
+  transform: "translate(261.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-11",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "x",
+  transform: "translate(4.000000, 7.000000)",
+  fillRule: "nonzero"
+}, /*#__PURE__*/React.createElement("polygon", {
+  fill: "#595959",
+  points: "2.47866667 10.1102222 5.50977778 5.90577778 8.52133333 10.1102222 10.3791111 10.1102222 6.37022222 4.752 9.94888889 -4.01654019e-14 8.11066667 -4.01654019e-14 5.50977778 3.59822222 2.88933333 -4.01654019e-14 1.05111111 -4.01654019e-14 4.62977778 4.752 0.620888889 10.1102222"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M15.4698144,9.77777778 L15.4698144,8.97191697 L12.4730195,8.97191697 C12.5989353,8.64453602 12.9850769,8.26678877 13.6314444,7.83867521 C14.2274457,7.43574481 14.6387705,7.11675824 14.8738132,6.87332112 C15.2599548,6.44520757 15.46142,5.9751221 15.46142,5.45467033 C15.46142,4.92582418 15.2767436,4.49771062 14.9157851,4.16193529 C14.5464322,3.82615995 14.0679524,3.66666667 13.4971343,3.66666667 C12.8591612,3.66666667 12.3387094,3.87652625 11.9525678,4.31303419 C11.5748205,4.71596459 11.3817497,5.25320513 11.3733553,5.9247558 L12.2883431,5.9247558 C12.3051319,5.43788156 12.4058645,5.07692308 12.6073297,4.82509158 C12.8004005,4.56486569 13.0858095,4.43894994 13.4635568,4.43894994 C13.8161209,4.43894994 14.0931355,4.52289377 14.277812,4.69078144 C14.4624884,4.85866911 14.5548266,5.11050061 14.5548266,5.44627595 C14.5548266,5.79884005 14.4121221,6.126221 14.1435018,6.4284188 C13.9756142,6.60470085 13.6902051,6.83134921 13.2872747,7.11675824 C12.6073297,7.58684371 12.154033,7.9478022 11.935779,8.20802808 C11.5328486,8.66132479 11.3397778,9.18177656 11.3397778,9.77777778 L15.4698144,9.77777778 Z",
+  id: "2",
+  fill: "#2B9DF0"
+}))))));
+export var superscript = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-288.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_superscript",
+  transform: "translate(289.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-12",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "x\u5907\u4EFD-2",
+  transform: "translate(4.200000, 6.000000)",
+  fillRule: "nonzero"
+}, /*#__PURE__*/React.createElement("polygon", {
+  id: "x",
+  fill: "#595959",
+  points: "2.4336 11.1264 5.4096 6.9984 8.3664 11.1264 10.1904 11.1264 6.2544 5.8656 9.768 1.2 7.9632 1.2 5.4096 4.7328 2.8368 1.2 1.032 1.2 4.5456 5.8656 0.6096 11.1264"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M15.1885451,6 L15.1885451,5.20879121 L12.2462374,5.20879121 C12.3698637,4.88736264 12.7489846,4.51648352 13.3836,4.09615385 C13.9687648,3.70054945 14.372611,3.38736264 14.6033802,3.14835165 C14.9825011,2.72802198 15.1803033,2.26648352 15.1803033,1.75549451 C15.1803033,1.23626374 14.9989846,0.815934066 14.644589,0.486263736 C14.2819516,0.156593407 13.8121714,0 13.2517319,0 C12.6253582,0 12.1143692,0.206043956 11.7352484,0.634615385 C11.3643692,1.03021978 11.1748088,1.55769231 11.166567,2.21703297 L12.0649187,2.21703297 C12.0814022,1.73901099 12.1803033,1.38461538 12.3781055,1.13736264 C12.5676659,0.881868132 12.8478857,0.758241758 13.2187648,0.758241758 C13.5649187,0.758241758 13.8368967,0.840659341 14.0182154,1.00549451 C14.1995341,1.17032967 14.2901934,1.41758242 14.2901934,1.74725275 C14.2901934,2.09340659 14.1500835,2.41483516 13.8863473,2.71153846 C13.7215121,2.88461538 13.4412923,3.10714286 13.0456879,3.38736264 C12.3781055,3.8489011 11.9330505,4.2032967 11.7187648,4.45879121 C11.3231604,4.90384615 11.1336,5.41483516 11.1336,6 L15.1885451,6 Z",
+  id: "2",
+  fill: "#2B9DF0"
+}))))));
+export var symbol = /*#__PURE__*/React.createElement("svg", {
+  width: "28px",
+  height: "28px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-666.000000, -38.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_symbol",
+  transform: "translate(666.000000, 38.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-40",
+  fill: "#F5F5F5",
+  opacity: "0",
+  x: "0",
+  y: "0",
+  width: "28",
+  height: "28"
+}), /*#__PURE__*/React.createElement("text", {
+  id: "\u7B26\u53F7",
+  fontFamily: "PingFangSC-Regular, PingFang SC",
+  fontSize: "9",
+  fontWeight: "normal",
+  fill: "#484848"
+}, /*#__PURE__*/React.createElement("tspan", {
+  x: "5",
+  y: "24.5"
+}, "\u7B26\u53F7")), /*#__PURE__*/React.createElement("path", {
+  d: "M8,13.108048 L10.8694029,13.108048 C9.05100267,11.7454374 8.14291429,10.0824047 8.14291429,8.11720081 C8.14291429,7.04943483 8.38166498,6.09156036 8.86128386,5.24359382 C9.33878524,4.39563081 10.0143237,3.72715115 10.8877449,3.23626393 C11.7612681,2.74539783 12.8102016,2.5 14.0346973,2.5 C15.2490123,2.5 16.2612671,2.725275 17.0715245,3.17582501 C17.8816551,3.62635154 18.5490335,4.27291839 19.0714744,5.11533542 C19.5939257,5.95784987 19.8572165,6.95784684 19.8572165,8.11718673 C19.8572165,10.0806065 18.9489986,11.7436275 17.1307018,13.1080339 L20,13.1080339 L20,14.5 L14.8877832,14.5 L14.8877832,13.195948 C17.0163913,12.3058602 18.079662,10.6923082 18.079662,8.35901518 C18.079662,7.0439534 17.7040736,5.96150612 16.9531281,5.11167331 C16.2020793,4.26192502 15.2265948,3.83515761 14.0245166,3.83515761 C12.7877777,3.83515761 11.7979468,4.26370678 11.055164,5.11899753 C10.3142684,5.97440097 9.94286393,7.02750912 9.94286393,8.27834309 C9.94286393,10.6447359 11.0020514,12.2838593 13.1184071,13.195948 L13.1184071,14.5 L8,14.5 L8,13.1080339 L8,13.108048 Z",
+  id: "\u8DEF\u5F84",
+  fill: "#FE8D29",
+  fillRule: "nonzero"
+})))));
+export var textIndent = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-556.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_text-indent",
+  transform: "translate(556.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-29",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "\u7F16\u7EC4-3",
+  transform: "translate(5.000000, 5.500000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fill: "#595959",
+  x: "8",
+  y: "0",
+  width: "6",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-18",
+  fill: "#595959",
+  x: "8",
+  y: "4",
+  width: "6",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-30",
+  fill: "#2B9DF0",
+  transform: "translate(3.000000, 2.500000) scale(1, -1) translate(-3.000000, -2.500000) ",
+  x: "0",
+  y: "2",
+  width: "6",
+  height: "1"
+}), /*#__PURE__*/React.createElement("polygon", {
+  id: "\u77E9\u5F62\u5907\u4EFD-32",
+  fill: "#2B9DF0",
+  points: "3.7 1.10710678 5.82132034 3.22842712 6.52842712 2.52132034 4.40710678 0.4"
+}), /*#__PURE__*/React.createElement("polygon", {
+  id: "\u77E9\u5F62\u5907\u4EFD-33",
+  fill: "#2B9DF0",
+  points: "5.82132034 1.81421356 3.7 3.93553391 4.40710678 4.64264069 6.52842712 2.52132034"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-28",
+  fill: "#595959",
+  x: "0",
+  y: "8",
+  width: "14",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-31",
+  fill: "#595959",
+  x: "0",
+  y: "12",
+  width: "14",
+  height: "1"
+}))))));
+export var triangle = /*#__PURE__*/React.createElement("svg", {
+  width: "12px",
+  height: "12px",
+  viewBox: "0 0 12 12",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-223.000000, -56.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_triangle",
+  transform: "translate(223.000000, 55.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "12",
+  height: "12"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M6.4,4.53333333 L8.4,7.2 C8.56568542,7.4209139 8.5209139,7.73431458 8.3,7.9 C8.21345191,7.96491106 8.10818511,8 8,8 L4,8 C3.72385763,8 3.5,7.77614237 3.5,7.5 C3.5,7.39181489 3.53508894,7.28654809 3.6,7.2 L5.6,4.53333333 C5.76568542,4.31241943 6.0790861,4.26764791 6.3,4.43333333 C6.33790283,4.46176046 6.37157288,4.4954305 6.4,4.53333333 Z",
+  id: "\u4E09\u89D2\u5F62\u5907\u4EFD-3",
+  fill: "#595959",
+  transform: "translate(6.000000, 6.000000) rotate(-180.000000) translate(-6.000000, -6.000000) "
+})))));
+export var underline = /*#__PURE__*/React.createElement("svg", {
+  width: "25px",
+  height: "24px"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-192.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_underline",
+  transform: "translate(193.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-9",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M16.5,17 L16.5,18 L7.5,18 L7.5,17 L16.5,17 Z M9.366,6 L9.366,11.733 C9.366,12.643 9.561,13.332 9.977,13.8 C10.406,14.281 11.082,14.528 12.005,14.528 C12.915,14.528 13.591,14.281 14.033,13.8 C14.436,13.332 14.644,12.643 14.644,11.733 L14.644,11.733 L14.644,6 L15.71,6 L15.71,11.72 C15.71,12.929 15.398,13.852 14.787,14.489 C14.15,15.139 13.227,15.464 12.005,15.464 C10.783,15.464 9.86,15.139 9.236,14.502 C8.612,13.852 8.3,12.929 8.3,11.72 L8.3,11.72 L8.3,6 L9.366,6 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959",
+  fillRule: "nonzero"
+})), /*#__PURE__*/React.createElement("g", {
+  id: "ic_triangle",
+  transform: "translate(217.000000, 46.000000)",
+  fill: "#F5F5F5",
+  fillOpacity: "0"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  x: "0",
+  y: "0",
+  width: "12",
+  height: "12"
+})))));
+export var video = /*#__PURE__*/React.createElement("svg", {
+  width: "16px",
+  height: "16px",
+  viewBox: "0 0 16 16",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-744.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_video",
+  transform: "translate(744.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-42",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "16",
+  height: "16"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "shipin",
+  transform: "translate(2.000000, 3.000000)",
+  fill: "#FE8D29",
+  fillRule: "nonzero"
+}, /*#__PURE__*/React.createElement("path", {
+  d: "M11.1,0 L0.9,0 C0.642857143,0 0.428571429,0.0833333333 0.257142857,0.291666667 C0.0857142857,0.458333333 0,0.708333333 0,1 L0,8.95833333 C0,9.54166667 0.385714286,10 0.9,10 L11.1,10 C11.3571429,10 11.5714286,9.91666667 11.7428571,9.70833333 C11.9142857,9.5 12,9.25 12,9 L12,1 C12,0.458333333 11.5714286,0 11.1,0 Z M2.14285714,9.16666667 L1.45714286,9.16666667 C1.11428571,9.16666667 0.857142857,8.875 0.857142857,8.5 L0.857142857,6.66666667 L2.14285714,6.66666667 L2.14285714,9.16666667 Z M2.14285714,5.83333333 L0.857142857,5.83333333 L0.857142857,4.16666667 L2.14285714,4.16666667 L2.14285714,5.83333333 Z M2.14285714,3.33333333 L0.857142857,3.33333333 L0.857142857,1.5 C0.857142857,1.125 1.11428571,0.833333333 1.45714286,0.833333333 L2.14285714,0.833333333 L2.14285714,3.33333333 Z M9,3.75 L9,9.16666667 L3,9.16666667 L3,0.833333333 L9,0.833333333 L9,3.75 Z M11.1428571,8.5 C11.1428571,8.875 10.8857143,9.16666667 10.5428571,9.16666667 L9.85714286,9.16666667 L9.85714286,6.66666667 L11.1428571,6.66666667 L11.1428571,8.5 Z M11.1428571,5.83333333 L9.85714286,5.83333333 L9.85714286,4.16666667 L11.1428571,4.16666667 L11.1428571,5.83333333 Z M11.1428571,3.33333333 L9.85714286,3.33333333 L9.85714286,0.833333333 L10.5857143,0.833333333 C10.8857143,0.833333333 11.1428571,1.125 11.1428571,1.5 L11.1428571,3.33333333 Z",
+  id: "\u5F62\u72B6"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M5.1,6.8 L7.02857143,5.65 L7.37142857,5.45 C7.8,5.2 7.8,4.8 7.37142857,4.55 L5.1,3.2 C4.88571429,3.1 4.71428571,3.2 4.71428571,3.45 L4.71428571,6.45 C4.71428571,6.8 4.88571429,6.9 5.1,6.8 L5.1,6.8 Z",
+  id: "\u8DEF\u5F84"
+}))))));
+export var wordspace = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-488.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_wordspace",
+  transform: "translate(488.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-34",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-30",
+  fill: "#2B9DF0",
+  transform: "translate(12.000000, 6.500000) scale(1, -1) translate(-12.000000, -6.500000) ",
+  x: "7",
+  y: "6",
+  width: "10",
+  height: "1"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M15.8771068,8.64264069 L15.17,7.93553391 L16.584,6.521 L15.17,5.10710678 L15.8771068,4.4 L17.9984271,6.52132034 L15.8771068,8.64264069 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#2B9DF0"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M6.70710678,8.64264069 L6,7.93553391 L7.414,6.521 L6,5.10710678 L6.70710678,4.4 L8.82842712,6.52132034 L6.70710678,8.64264069 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-11",
+  fill: "#2B9DF0",
+  transform: "translate(7.414214, 6.521320) scale(-1, 1) translate(-7.414214, -6.521320) "
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-28",
+  fill: "#595959",
+  x: "6",
+  y: "10",
+  width: "12",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fill: "#2B9DF0",
+  x: "4",
+  y: "4",
+  width: "1",
+  height: "16"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-38",
+  fill: "#2B9DF0",
+  x: "19",
+  y: "4",
+  width: "1",
+  height: "16"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-31",
+  fill: "#595959",
+  x: "6",
+  y: "14",
+  width: "12",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-37",
+  fill: "#595959",
+  x: "6",
+  y: "18",
+  width: "12",
+  height: "1"
+})))));
+export var lineSpace = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-516.000000, -50.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "line-space",
+  transform: "translate(516.000000, 49.988863)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-35",
+  fillOpacity: "0",
+  fill: "#F5F5F5",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24"
+}), /*#__PURE__*/React.createElement("g", {
+  id: "\u7F16\u7EC4-4",
+  transform: "translate(3.100000, 4.292893)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62",
+  fill: "#595959",
+  x: "6.9",
+  y: "1.70710678",
+  width: "9",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-18",
+  fill: "#595959",
+  x: "6.9",
+  y: "5.70710678",
+  width: "9",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-30",
+  fill: "#2B9DF0",
+  transform: "translate(3.000000, 4.235534) scale(1, -1) rotate(-270.000000) translate(-3.000000, -4.235534) ",
+  x: "0",
+  y: "3.73553391",
+  width: "6",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-36",
+  fill: "#2B9DF0",
+  transform: "translate(3.042641, 12.207107) scale(1, -1) rotate(-90.000000) translate(-3.042641, -12.207107) ",
+  x: "0.0426406871",
+  y: "11.7071068",
+  width: "6",
+  height: "1"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M2.31421356,4.24264069 L1.60710678,3.53553391 L3.02110678,2.121 L1.60710678,0.707106781 L2.31421356,9.32587341e-15 L4.43553391,2.12132034 L2.31421356,4.24264069 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#2B9DF0",
+  transform: "translate(3.021320, 2.121320) rotate(-90.000000) translate(-3.021320, -2.121320) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M2.31421356,16.4426407 L1.60710678,15.7355339 L3.02110678,14.321 L1.60710678,12.9071068 L2.31421356,12.2 L4.43553391,14.3213203 L2.31421356,16.4426407 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-10",
+  fill: "#2B9DF0",
+  transform: "translate(3.021320, 14.321320) rotate(-270.000000) translate(-3.021320, -14.321320) "
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-28",
+  fill: "#595959",
+  x: "6.9",
+  y: "9.70710678",
+  width: "9",
+  height: "1"
+}), /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-31",
+  fill: "#595959",
+  x: "6.9",
+  y: "13.7071068",
+  width: "9",
+  height: "1"
+}))))));
+export var lowerTriangle = /*#__PURE__*/React.createElement("svg", {
+  className: "icon",
+  style: {
+    position: "relative",
+    top: '2px'
+  },
+  width: "10px",
+  height: "10.00px",
+  viewBox: "0 0 1000 1000",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("path", {
+  fill: "#595959",
+  d: "M233.583 362.231l499.661 0-250.22699999 298.81-249.43400001-298.81zM233.583 362.231z"
+}));
+export var insertFormula = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u9875\u9762-1",
+  stroke: "none",
+  strokeWidth: "1",
+  fill: "none",
+  fillRule: "evenodd"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u8BD5\u9898\u5728\u7EBF\u7F16\u8F91-\u5DE5\u5177\u680Ficon",
+  transform: "translate(-770.000000, -40.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "ic_formula-recognition",
+  transform: "translate(770.000000, 40.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-40",
+  fill: "#FFFFFF",
+  opacity: "0",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24",
+  rx: "2"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M15.0498667,11.6069333 C15.1,11.5568 15.1501333,11.5069333 15.2,11.5069333 L15.9,11.5069333 C15.9498667,11.5069333 16,11.4570667 16,11.4072 L16,10.6085333 C16,10.5584 15.9498667,10.5085333 15.9,10.5085333 L15.1,10.5085333 C15.0498667,10.5085333 14.9501333,10.5584 14.9501333,10.6085333 L14.1,11.5072 C14.0501333,11.5568 14,11.5568 14,11.5072 L13.5501333,10.6085333 C13.5,10.5584 13.4501333,10.5085333 13.4,10.5085333 L12.1,10.5085333 C12.0501333,10.5085333 12,10.5584 12,10.6085333 L12,11.4072 C12,11.4570667 12.0501333,11.5069333 12.1,11.5069333 L12.9,11.5069333 C12.9501333,11.5069333 13,11.5568 13.0498667,11.6069333 L13.3498667,12.256 L13.3498667,12.4056 L12.4498667,13.4538667 C12.4,13.4538667 12.3501333,13.504 12.3,13.504 L11.6,13.504 C11.5501333,13.504 11.5,13.5538667 11.5,13.6037333 L11.5,14.4024 C11.5,14.4522667 11.5501333,14.5024 11.6,14.5024 L12.4,14.5024 C12.4498667,14.5024 12.5498667,14.4522667 12.5498667,14.4024 L13.7,13.1045333 C13.7501333,13.0546667 13.8,13.0546667 13.8,13.1045333 L14.4498667,14.4024 C14.4498667,14.4522667 14.5498667,14.5024 14.6,14.5024 L15.4,14.5024 C15.4536598,14.498785 15.496385,14.4560598 15.5,14.4024 L15.5,13.6037333 C15.4962575,13.5501776 15.4535656,13.5075995 15.4,13.504 L15.1,13.504 C15.0498667,13.504 15,13.4538667 14.9501333,13.404 L14.4498667,12.4056 L14.4498667,12.256 L15.0498667,11.6069333 L15.0498667,11.6069333 Z M10.9501333,8.51173333 C10.7,8.71146667 10.4498667,9.01093333 10.3,9.51013333 L10.0501333,10.5085333 L8.6,10.5085333 C8.54634018,10.5121484 8.50361504,10.5548735 8.5,10.6085333 L8.5,11.4072 C8.5,11.4570667 8.54986666,11.5069333 8.6,11.5069333 L9.8,11.5069333 L9.04986666,14.5024 C8.9,15.1013333 8.5,15.0016 8.5,15.0016 L8,15.0016 L8,16 L8.5,16 C8.9,16 9.3,15.9501333 9.5,15.7005333 C9.75013334,15.4509333 9.9,15.0016 10,14.5024 L10.7501333,11.5069333 L11.9,11.5069333 C11.9498667,11.5069333 12,11.4570667 12,11.4072 L12,10.6085333 C12,10.5584 11.9498667,10.5085333 11.9,10.5085333 L11,10.5085333 L11.2501333,9.56 C11.3,9.4104 11.5501333,9.1608 11.7,9.0608 C12.2498667,8.66133333 13,8.91093333 13.5,9.01093333 L13.5,8.16213333 C13,8.0624 11.9,7.71306667 10.9501333,8.51146666 L10.9501333,8.51173333 Z",
+  id: "\u5F62\u72B6",
+  fill: "#595959",
+  fillRule: "nonzero"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M8.5,5 C8.77614237,5 9,5.22385763 9,5.5 C9,5.77614237 8.77614237,6 8.5,6 L6,6 L6,8.5 C6,8.77614237 5.77614237,9 5.5,9 C5.22385763,9 5,8.77614237 5,8.5 L5,5.5 C5,5.22385763 5.22385763,5 5.5,5 L8.5,5 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M18.5,5 C18.7761424,5 19,5.22385763 19,5.5 C19,5.77614237 18.7761424,6 18.5,6 L16,6 L16,8.5 C16,8.77614237 15.7761424,9 15.5,9 C15.2238576,9 15,8.77614237 15,8.5 L15,5.5 C15,5.22385763 15.2238576,5 15.5,5 L18.5,5 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-4",
+  fill: "#595959",
+  transform: "translate(17.000000, 7.000000) scale(-1, 1) translate(-17.000000, -7.000000) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M8.5,15 C8.77614237,15 9,15.2238576 9,15.5 C9,15.7761424 8.77614237,16 8.5,16 L6,16 L6,18.5 C6,18.7761424 5.77614237,19 5.5,19 C5.22385763,19 5,18.7761424 5,18.5 L5,15.5 C5,15.2238576 5.22385763,15 5.5,15 L8.5,15 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-3",
+  fill: "#595959",
+  transform: "translate(7.000000, 17.000000) scale(1, -1) translate(-7.000000, -17.000000) "
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M18.5,15 C18.7761424,15 19,15.2238576 19,15.5 C19,15.7761424 18.7761424,16 18.5,16 L16,16 L16,18.5 C16,18.7761424 15.7761424,19 15.5,19 C15.2238576,19 15,18.7761424 15,18.5 L15,15.5 C15,15.2238576 15.2238576,15 15.5,15 L18.5,15 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408\u5907\u4EFD-5",
+  fill: "#595959",
+  transform: "translate(17.000000, 17.000000) scale(-1, -1) translate(-17.000000, -17.000000) "
+})))));
+export var formulaEditor = /*#__PURE__*/React.createElement("svg", {
+  width: "24px",
+  height: "24px",
+  viewBox: "0 0 24 24",
+  version: "1.1",
+  xmlns: "http://www.w3.org/2000/svg"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u5236\u4F5C\u7AEF-\u5DE5\u5177\u680F-\u516C\u5F0F\u7F16\u8F91",
+  transform: "translate(-1499.000000, -160.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u5DE5\u5177\u680F",
+  transform: "translate(680.000000, 160.000000)"
+}, /*#__PURE__*/React.createElement("g", {
+  id: "\u516C\u5F0F\u7F16\u8F91",
+  transform: "translate(819.000000, 0.000000)"
+}, /*#__PURE__*/React.createElement("rect", {
+  id: "\u77E9\u5F62\u5907\u4EFD-40",
+  fill: "#FFFFFF",
+  opacity: "0",
+  x: "0",
+  y: "0",
+  width: "24",
+  height: "24",
+  rx: "2"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M13.6707402,4 C13.9468826,4 14.1707402,4.22385763 14.1707402,4.5 C14.1707402,4.74545989 13.9938651,4.94960837 13.7606159,4.99194433 L13.6707402,5 L5.5,5 C5.25454011,5 5.05039163,5.17687516 5.00805567,5.41012437 L5,5.5 L5,18.5 C5,18.7454599 5.17687516,18.9496084 5.41012437,18.9919443 L5.5,19 L18.5,19 C18.7454599,19 18.9496084,18.8231248 18.9919443,18.5898756 L19,18.5 L19,10.2700109 C19,9.99386854 19.2238576,9.77001091 19.5,9.77001091 C19.7454599,9.77001091 19.9496084,9.94688607 19.9919443,10.1801353 L20,10.2700109 L20,18.5 C20,19.2796961 19.4051119,19.9204487 18.64446,19.9931334 L18.5,20 L5.5,20 C4.72030388,20 4.07955132,19.4051119 4.00686658,18.64446 L4,18.5 L4,5.5 C4,4.72030388 4.59488808,4.07955132 5.35553999,4.00686658 L5.5,4 L13.6707402,4 Z",
+  id: "\u8DEF\u5F84-3",
+  fill: "#595959",
+  fillRule: "nonzero"
+}), /*#__PURE__*/React.createElement("path", {
+  d: "M11.4568027,7.42857143 C11.772394,7.42857143 12.0282313,7.68440871 12.0282313,8 C12.0282313,8.28052559 11.8260883,8.51383814 11.5595177,8.56222209 L11.4568027,8.57142857 L9.10971429,8.57142857 L11.3221334,11.6678639 C11.4437769,11.8381647 11.4611545,12.0585859 11.3742663,12.2432068 L11.3221334,12.3321361 L9.10857143,15.4285714 L16,15.4285714 C16.2805256,15.4285714 16.5138381,15.6307145 16.5622221,15.897285 L16.5714286,16 C16.5714286,16.2805256 16.3692855,16.5138381 16.102715,16.5622221 L16,16.5714286 L8,16.5714286 C7.56841456,16.5714286 7.3044734,16.1184447 7.48526702,15.7509161 L7.53500945,15.6678639 L10.1542857,11.9988571 L7.53500945,8.33213611 C7.2841555,7.98094059 7.49935099,7.50287129 7.90350542,7.43636748 L8,7.42857143 L11.4568027,7.42857143 Z M16.8028577,5.57097504 L18.6943479,7.15812379 L15.3892765,11.0969546 C15.2184361,11.3005543 14.9971714,11.4542372 14.7528345,11.5390055 L13.2337077,12.0660396 C13.0956242,12.1139452 12.9559895,12.0421387 12.9218248,11.9056553 C12.9134163,11.8720644 12.9120245,11.8364224 12.9177344,11.8009065 L13.172968,10.2133402 C13.2140199,9.95799547 13.3269458,9.7134055 13.4977862,9.50980586 L16.8028577,5.57097504 Z M18.7610182,4.4040436 L19.5035201,5.02707663 C19.8208045,5.29330984 19.8621896,5.76634431 19.5959564,6.08362868 L19.0463676,6.73860315 L17.1548773,5.15145439 L17.7044662,4.49647993 C17.9706994,4.17919555 18.4437338,4.1378104 18.7610182,4.4040436 Z",
+  id: "\u5F62\u72B6\u7ED3\u5408",
+  fill: "#595959",
+  fillRule: "nonzero"
+})))));

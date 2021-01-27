@@ -1,0 +1,252 @@
+.neqQuestionShow {
+  padding: 0;
+}
+.neqQuestionShow .test {
+  overflow-x: auto;
+  overflow-y: hidden;
+  position: relative;
+  cursor: pointer;
+}
+.neqQuestionShow .test.open,
+.neqQuestionShow .test.close {
+  transition: height 0.5s;
+  -moz-transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  -o-transition: height 0.5s;
+}
+.neqQuestionShow .test.close:after {
+  content: '';
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  bottom: 0;
+  background: -webkit-linear-gradient(rgba(255, 255, 255, 0), #ffffff);
+  /*for safari5.1-6.0*/
+  background: -o-linear-gradient(rgba(255, 255, 255, 0), #ffffff);
+  /*Opera 11.1-12.0*/
+  background: -moz-linear-gradient(rgba(255, 255, 255, 0), #ffffff);
+  /*firefox 3.6-15*/
+  background: linear-gradient(rgba(255, 255, 255, 0), #ffffff);
+  /*标准语法，必须放在最后*/
+}
+.neqQuestionShow .test .directory {
+  cursor: pointer;
+  padding: 6px 24px;
+}
+.neqQuestionShow .test .directory .name {
+  padding: 12px 0;
+  position: relative;
+}
+.neqQuestionShow .test .questionTitle {
+  display: inline-block;
+  vertical-align: top;
+  font-weight: bolder;
+  color: #FE8D29;
+  margin: 4px 0;
+  min-width: 60px;
+}
+.neqQuestionShow .test .questionHtml {
+  display: inline-block;
+  padding: 0 12px 0 0;
+}
+.neqQuestionShow .test .fatherStem {
+  position: relative;
+  padding: 6px 24px 6px 0;
+}
+.neqQuestionShow .test .fatherStem .stem {
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+}
+.neqQuestionShow .test .fatherStem .option {
+  display: block;
+}
+.neqQuestionShow .test .fatherStem .answer {
+  display: flex;
+  align-items: baseline;
+}
+.neqQuestionShow .test .fatherStem .explanation {
+  display: flex;
+  align-items: baseline;
+}
+.neqQuestionShow .test .fatherStem .showbtn {
+  background-color: #FE8D29;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 24px;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 2px 5px;
+  z-index: 200;
+}
+.neqQuestionShow .test .fatherStem .showbtn .showbtn-icon {
+  margin-left: 3px;
+}
+.neqQuestionShow .test .fatherStem .statusDisplay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: #fff;
+  background-color: #5c5c5f;
+}
+.neqQuestionShow .test .childStem {
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+.neqQuestionShow .test .childStem > div {
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+.neqQuestionShow .test .childStem .option {
+  display: block;
+}
+.neqQuestionShow .test .childStem .answer {
+  display: flex;
+  align-items: baseline;
+  margin: 16px 0;
+}
+.neqQuestionShow .test .childStem .explanation {
+  display: flex;
+  align-items: baseline;
+}
+.neqQuestionShow .test .childStem.open,
+.neqQuestionShow .test .childStem.close {
+  transition: height 0.5s;
+  -moz-transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  -o-transition: height 0.5s;
+}
+.neqQuestionShow .test .childStem .stem {
+  padding: 7px 0;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.neqQuestionShow .test .childStem .option {
+  display: block;
+}
+.neqQuestionShow .test .showbtn {
+  color: #626262;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 2px 5px;
+  z-index: 200;
+}
+.neqQuestionShow .test .showbtn .showbtn-icon {
+  margin-left: 3px;
+}
+.neqQuestionShow .attrQuestionType,
+.neqQuestionShow .attrQuestionType1 {
+  display: inline-block;
+  background: #FEEAD8;
+  border-radius: 4px;
+  font-size: 12px;
+  padding: 3px 5px;
+  min-width: 50px;
+  text-align: center;
+  margin-right: 8px;
+  color: #FE8D29;
+}
+.neqQuestionShow .attrOptionType {
+  display: inline-block;
+  background: #CFF4DF;
+  border-radius: 4px;
+  font-size: 12px;
+  padding: 3px 5px;
+  color: #22BA64;
+}
+.neqQuestionShow .attrQuestionType1 {
+  background: #E7F1FF;
+}
+.neqQuestionShow .DoubleStrike {
+  text-decoration: line-through;
+}
+.neqQuestionShow .Strike {
+  text-decoration: line-through;
+}
+.neqQuestionShow .EmphasisDot {
+  position: relative;
+  display: inline!important;
+}
+.neqQuestionShow .EmphasisDot:before {
+  content: '.';
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: initial;
+}
+.neqQuestionShow .UnderlineSingle {
+  text-decoration: underline;
+}
+.neqQuestionShow .UnderlineDouble {
+  display: inline;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.neqQuestionShow .UnderlineWave {
+  background: url('../../assets/icon-svg/wavy.svg') repeat-x 0 100%;
+  background-size: 18px 10px;
+  padding: 3px 0;
+}
+.neqQuestionShow .MathJax_Display {
+  display: inline !important;
+  max-width: 100%;
+}
+.neqQuestionShow .UnderlineDotted {
+  text-decoration-style: dashed;
+  text-decoration-line: underline;
+}
+.neqQuestionShow .EmphasisDot {
+  position: relative;
+}
+.neqQuestionShow .EmphasisDot:before {
+  content: '.';
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: initial;
+}
+.neqQuestionShow .UnderlineSingle {
+  text-decoration: underline;
+}
+.neqQuestionShow .UnderlineDouble {
+  display: inline;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.neqQuestionShow .Bold {
+  font-weight: bold;
+}
+.neqQuestionShow .Italic {
+  font-style: italic;
+}
+.neqQuestionShow .VertAlignSuperscript {
+  vertical-align: super;
+  font-size: 0.8em !important;
+}
+.neqQuestionShow .VertAlignSubscript {
+  vertical-align: sub;
+  font-size: 0.8em !important;
+}
+.neqQuestionShow a {
+  color: #000;
+}
+.modalQuestionShow {
+  composes: neqQuestionShow;
+  padding: 0 24px;
+}
+.stem-content {
+  min-height: 21px;
+}
+.stem-content img {
+  display: inline-block !important;
+}

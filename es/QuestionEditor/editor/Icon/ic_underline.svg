@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_underline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试题在线编辑-工具栏icon" transform="translate(-199.000000, -50.000000)">
+            <g id="ic_underline" transform="translate(199.000000, 49.988863)">
+                <rect id="矩形备份-9" fill-opacity="0" fill="#F5F5F5" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.5,17 L16.5,18 L7.5,18 L7.5,17 L16.5,17 Z M9.366,6 L9.366,11.733 C9.366,12.643 9.561,13.332 9.977,13.8 C10.406,14.281 11.082,14.528 12.005,14.528 C12.915,14.528 13.591,14.281 14.033,13.8 C14.436,13.332 14.644,12.643 14.644,11.733 L14.644,11.733 L14.644,6 L15.71,6 L15.71,11.72 C15.71,12.929 15.398,13.852 14.787,14.489 C14.15,15.139 13.227,15.464 12.005,15.464 C10.783,15.464 9.86,15.139 9.236,14.502 C8.612,13.852 8.3,12.929 8.3,11.72 L8.3,11.72 L8.3,6 L9.366,6 Z" id="形状结合" fill="#595959" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

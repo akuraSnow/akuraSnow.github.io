@@ -1,0 +1,70 @@
+.tips-container {
+  z-index: 2223;
+  position: fixed;
+  top: 0px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  background: rgba(0, 0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  &.animate {
+    opacity: 1;
+    transition: opacity 100ms;
+  }
+  &.spin {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  &.leave {
+    opacity: 0;
+    transition: opacity 100ms;
+  }
+  .tips-content {
+    text-align: center;
+    border-radius: 4px;
+    padding: 20px 70px;
+    border-radius: 8px;
+
+    &.success,
+    &.loading,
+    &.successLoading {
+      background: #d9ffd8;
+      color: #49c237;
+    }
+    &.fail {
+      background: #ffe0e0;
+      color: #ff5a5a;
+    }
+    &.warning {
+      background: #fff3cc;
+      color: #fe8d29;
+    }
+
+    .tips-time {
+      font-size: 14px;
+      color: #595959;
+      display: block;
+      padding-left: 24px;
+    }
+  }
+
+  .tips-icon {
+    margin-right: 8px;
+    font-size: 24px;
+    &.success-icon {
+      color: #52c41a;
+    }
+    &.fail-icon {
+      color: #f5222d;
+    }
+  }
+
+  span {
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+  }
+}

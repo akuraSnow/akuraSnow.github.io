@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_clean-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试题在线编辑-工具栏icon" transform="translate(-74.000000, -50.000000)">
+            <g id="ic_clean-up" transform="translate(74.000000, 49.988863)">
+                <rect id="经过备份" fill-opacity="0" fill="#F5F5F5" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6.652,17 L7.868,13.8 L13.116,13.8 L14.332,17 L15.756,17 L11.26,5.576 L9.74,5.576 L5.244,17 L6.652,17 Z M12.7,12.696 L8.284,12.696 L10.476,6.984 L10.54,6.984 L12.7,12.696 Z" id="A" fill="#484848" fill-rule="nonzero"></path>
+                <rect id="矩形" stroke="#B620E0" fill="#FFFFFF" transform="translate(15.596194, 15.596194) rotate(-315.000000) translate(-15.596194, -15.596194) " x="13.5961941" y="12.0961941" width="4" height="7" rx="1"></rect>
+                <rect id="矩形" stroke="#B620E0" fill="#F2C5FF" transform="translate(13.828427, 17.363961) rotate(-315.000000) translate(-13.828427, -17.363961) " x="11.8284271" y="16.363961" width="4" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

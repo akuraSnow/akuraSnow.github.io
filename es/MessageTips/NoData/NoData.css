@@ -1,0 +1,20 @@
+.no-data {
+  padding: 120px 20px;
+  text-align: center;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.no-data .img {
+  width: 88px;
+  height: 88px;
+  background: no-repeat url('../../../style/imgs/search_0.svg') center center;
+  background-size: contain;
+}
+.no-data p {
+  font-size: 18px;
+  color: #BFBFBF;
+  margin: 6px 0;
+}

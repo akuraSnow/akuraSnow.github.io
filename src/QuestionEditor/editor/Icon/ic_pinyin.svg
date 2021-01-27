@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_pinyin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="试题在线编辑-工具栏icon" transform="translate(-102.000000, -50.000000)">
+            <g id="ic_pinyin" transform="translate(102.000000, 49.988863)">
+                <rect id="经过" fill-opacity="0" fill="#F5F5F5" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.4263363,7 L18.4263363,19 L17.3354272,19 L17.3354272,15.7272727 L13.269,15.727 L11.3354272,19 L10,19 L17.0909091,7 L18.4263363,7 Z M17.335,8.846 L13.914,14.636 L17.3354272,14.6363636 L17.335,8.846 Z" id="形状结合" fill="#2B9DF0"></path>
+                <text id="abc" font-family="PingFangSC-Regular, PingFang SC" font-size="7" font-weight="normal" fill="#484848">
+                    <tspan x="4.078" y="9">abc</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
